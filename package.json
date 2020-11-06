@@ -1,0 +1,28 @@
+{
+  "name": "offline-budget-app",
+  "version": "1.0.0",
+  "description": "## User Story AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckomodo/offline-budget-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckomodo/offline-budget-app/issues"
+  },
+  "homepage": "https://github.com/ckomodo/offline-budget-app#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.5.4",
+    "mongoose": "^5.10.12",
+    "morgan": "^1.10.0"
+  }
+}
