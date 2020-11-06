@@ -9,8 +9,7 @@ const staticFilesToPreCache  = [
     "/db.js",
     "/index.html",
     "/index.js",
-    "/service-worker.js",
-    "/styles.css",
+    "/style.css",
     "/manifest.webmanifest",
    
 ];
